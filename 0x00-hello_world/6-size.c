@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - A program printing size of various types
- * Return : Always 0 (Success)
+ * main - Entry
+ * return : Always 0
  */
 int main(void)
 {
